@@ -8,7 +8,7 @@
   
 ### The example solution `UU_GEO_fieldwork` is a students fieldwork area in SE Spain.   
 ### The dataset provided is not real, has been modified for educational purposes.
-Note: The project and layers describe the CRS projection Worldwide system: Pseudo-Mercator / Ellipsoid Wold Geodetic System 1984 (WGS84), EPSG: 3857, which is less (1-2m) precise. If you need a better resolution, use you local projection system, but define the same CRS for the project and for the enclosed layers.
+Note: The project and layers describe the CRS projection Worldwide system: Pseudo-Mercator / Ellipsoid Wold Geodetic System 1984 (WGS84), EPSG: 3857, which is less (1-2m) precise. If you need a better resolution, use your local projection system, but define the same CRS for the project and for the enclosed layers.
   
 ---  
   
