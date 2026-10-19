@@ -779,3 +779,7 @@ https://drive.google.com/uc?export=download&id=1Z8SIy5eYaq-TjxadDm1WlnU6CQiVg2DT
 //------density plots of lineations and poles, paleostress axes  
 // Install via the Plugin Manager of QField:  
 https://drive.google.com/uc?export=download&id=1CHK7okZEGiHerkhs9Bmcp4AWQwrlUbXX  
+  
+## Changelog & Updates
+  
+* **Version 1.0:** Initial release. Includes real-time stereonet plotting, 7 calculation tabs, and spatial filtering for current view/all features.
