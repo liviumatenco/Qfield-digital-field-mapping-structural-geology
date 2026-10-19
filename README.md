@@ -762,14 +762,7 @@ Qfield -> Settings -> Use native camera
 // You can modify the plugins below by downloading on your computer and modyfying their QML JAVA programming  
 // Instalation on your mobile device in Qfield by copy-paste the links below in   
 Qfield -> Settings -> Manage plugins -> Install plugin from URL  
-  
-## Automatic compass measurements with your mobile device   
-//    modified from https://www.opengis.ch  
-// ---Experience demonstrates that the compass of some mobile devices is NOT reliable   
-// ---and/or students make many mistakes by using it.  
-// ---In the field use a real compass for measurements.   
-https://drive.google.com/uc?export=download&id=1Z8SIy5eYaq-TjxadDm1WlnU6CQiVg2DT  
-  
+
 ## STRUCTURAL GEOLOGY CALCULATOR  
 // Contains:  
 // ---Tab S - Stereonet plotting of all types of structural  
@@ -778,7 +771,14 @@ https://drive.google.com/uc?export=download&id=1Z8SIy5eYaq-TjxadDm1WlnU6CQiVg2DT
 //------backtilting, apparent dips in cross-sections, Pi-diagram  
 //------density plots of lineations and poles, paleostress axes  
 // Install via the Plugin Manager of QField:  
-https://drive.google.com/uc?export=download&id=1CHK7okZEGiHerkhs9Bmcp4AWQwrlUbXX  
+https://github.com/liviumatenco/Qfield-Structural-Geology-Calculator/archive/refs/heads/main.zip  
+  
+## Automatic compass measurements with your mobile device   
+//    modified from https://www.opengis.ch  
+// ---Experience demonstrates that the compass of some mobile devices is NOT reliable   
+// ---and/or students make many mistakes by using it.  
+// ---In the field use a real compass for measurements.   
+https://drive.google.com/uc?export=download&id=1Z8SIy5eYaq-TjxadDm1WlnU6CQiVg2DT  
   
 ## Changelog & Updates
   
