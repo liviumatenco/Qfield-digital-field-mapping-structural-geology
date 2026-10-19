@@ -782,4 +782,4 @@ https://drive.google.com/uc?export=download&id=1CHK7okZEGiHerkhs9Bmcp4AWQwrlUbXX
   
 ## Changelog & Updates
   
-* **Version 1.0:** Initial release. Includes real-time stereonet plotting, 7 calculation tabs, and spatial filtering for current view/all features.
+* **Version 1.0:** Initial release.
