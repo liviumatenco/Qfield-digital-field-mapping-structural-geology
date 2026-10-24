@@ -394,7 +394,7 @@ fieldwork (group)
 ------------fid  
    measurements  
 ------// Because creating individual sysmbols is labour intensive, you may skip this entire section by directly 
-------// ---loading the style of the entire layer in the file `measurements_style.qml` available in the supplementary files
+------// ---loading the style of the entire layer in the file `measurements_style.qml` available in the supplementary files.  
 ------Symbiology  
 ---------// These symbols have to be defined manual. Symbols are custom defined by you  
 ---------//---In all symbols the azimuth of dip has to point north (azimuth north) in their definition  
@@ -403,28 +403,26 @@ fieldwork (group)
 ---------//---and double click the symbol when the line is defined  
 ---------Categorized, Value: Type, add by pressing the plus symbol,   
 ---------Symbol layer type: Simple symbol, and create your own symbols for: 
-------------// plane-line, plane-line-sense require two symbols, one for the plane and one for the line
-------------// fault and shearzone require two symbols, one for the plane and one for the line with an arrow
+------------// plane-line, plane-line-sense require two symbols, one for the plane and one for the line  
+------------// fault and shearzone require two symbols, one for the plane and one for the line with an arrow.  
 ------------// ---press plus in the symbol selector to add one more symbol  
-------------plane---plane
-------------line---line
-------------plane-line---plane-line
-------------line-sense---line-sense
-------------plane-line-sense---plane-line-sense
-------------bedding---bedding
-------------foliation---foliation
-------------fault---fault
-------------shearzone---shearzone
-------------fault plane---fault plane
-------------fold---fold
-------------lineation---lineation
-------------stretching lineation---stretching lineation
-------------slickenlines---slickenlines
-------------fault gouge foliation---fault gouge foliation
-------------Riedel shear---Riedel shear
+------------plane---plane  
+------------line---line  
+------------plane-line---plane-line  
+------------line-sense---line-sense  
+------------plane-line-sense---plane-line-sense  
+------------bedding---bedding  
+------------foliation---foliation  
+------------fault---fault  
+------------shearzone---shearzone  
+------------fault plane---fault plane  
+------------fold---fold  
+------------lineation---lineation  
+------------stretching lineation---stretching lineation  
+------------slickenlines---slickenlines  
+------------fault gouge foliation---fault gouge foliation  
+------------Riedel shear---Riedel shear  
 ---------// All symbols: Symbols are rotated based on theit type: planes with `Dip azimuth`, lines with `Trend` and sense with `Top to`  
----------Rotation:  
-------------function -> `"Top to"`---  
 ---------// All symbols:  
 ---------Size of the longest  
 ------------8  
