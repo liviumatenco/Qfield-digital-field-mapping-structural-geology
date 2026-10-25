@@ -789,7 +789,7 @@ https://github.com/liviumatenco/Qfield-Structural-Geology-Calculator/archive/ref
 https://drive.google.com/uc?export=download&id=1Z8SIy5eYaq-TjxadDm1WlnU6CQiVg2DT  
   
 ## Changelog & Updates
-### Version 1.0:
+### Version 2.0:
 * **Dynamic Categories:** Replaced static characterisation of `Types` to a dynamic one
 * **Generations of structures:** Assignment of levels of the same type (i.e . generations) in a `Generation` field.
 * **Replaced external png symbols:** Internal QGIS/Qfield Simple symbols are now used.
