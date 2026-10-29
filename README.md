@@ -1,5 +1,5 @@
 # Manual for building a digital field mapping system for structural geology using Qfield for QGIS  
-## Used by Utrecht University BSc GEO3-1307 Structural Geology and MSc GEO4-1430 Fieldwork Research instruction geology courses  
+## Used by Utrecht University BSc GEO3-1307 Structural Geology and MSc GEO4-1430 Fieldwork Research Instruction Geology courses  
 **Author:** Liviu Matenco  
 **Institution:** Utrecht University  
 **Version:** 2.0  
