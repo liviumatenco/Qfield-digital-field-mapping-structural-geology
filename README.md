@@ -773,7 +773,7 @@ Qfield -> Settings -> Manage plugins -> Install plugin from URL
 
 ## STRUCTURAL GEOLOGY CALCULATOR  
 // Contains:  
-// ---Tabs C, S, D, P, B - Geological compass and stereonet calculations with map measurements.
+// ---Tabs C, S, D, P, B - Geological compass and stereonet calculations with map measurements.  
 // ---Tabs 1-6: Rapid structural geology calculations needed in the field 
 // Install via the Plugin Manager of QField, use the QRCode:  
 https://github.com/liviumatenco/Qfield-Structural-Geology-Calculator/ 
