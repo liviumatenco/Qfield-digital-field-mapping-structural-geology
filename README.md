@@ -773,21 +773,11 @@ Qfield -> Settings -> Manage plugins -> Install plugin from URL
 
 ## STRUCTURAL GEOLOGY CALCULATOR  
 // Contains:  
-// ---Tab S - Stereonet plotting of all types of structural  
-//------Tabs C1-7: Rapid structural geology calculations needed in the field  
-//------Operations with planes (e.g., fault and Riedel), planes and lines (e.g., fault and drag-fold),  
-//------backtilting, apparent dips in cross-sections, Pi-diagram  
-//------density plots of lineations and poles, paleostress axes  
-// Install via the Plugin Manager of QField:  
-https://github.com/liviumatenco/Qfield-Structural-Geology-Calculator/archive/refs/heads/main.zip  
-  
-## Automatic compass measurements with your mobile device   
-//    modified from https://www.opengis.ch  
-// ---Experience demonstrates that the compass of some mobile devices is NOT reliable   
-// ---and/or students make many mistakes by using it.  
-// ---In the field use a real compass for measurements.   
-https://drive.google.com/uc?export=download&id=1Z8SIy5eYaq-TjxadDm1WlnU6CQiVg2DT  
-  
+// ---Tabs C, S, D, P, B - Geological compass and stereonet calculations with map measurements.
+// ---Tabs 1-6: Rapid structural geology calculations needed in the field 
+// Install via the Plugin Manager of QField, use the QRCode:  
+https://github.com/liviumatenco/Qfield-Structural-Geology-Calculator/ 
+    
 ## Changelog & Updates
 ### Version 2.0:
 * **Dynamic Categories:** Replaced static characterisation of `Types` to a dynamic one
